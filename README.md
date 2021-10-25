@@ -1,3 +1,9 @@
+# A web page translator made with ReactJs
+
+![EN](https://github.com/ImaneElouazzani/MultiLanguages_ReactJs/blob/main/screenshots/EN.PNG)
+![FR](https://github.com/ImaneElouazzani/MultiLanguages_ReactJs/blob/main/screenshots/FR.PNG)
+![ES](https://github.com/ImaneElouazzani/MultiLanguages_ReactJs/blob/main/screenshots/ES.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
